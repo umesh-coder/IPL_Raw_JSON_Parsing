@@ -19,21 +19,6 @@ class PlayerCustomAdapter(var playersList: List<PlayerModel>) : RecyclerView.Ada
             when (player.teamName) {
                 "Chennai Super Kings" -> {
                     binding.root.setBackgroundColor(getColor(binding.root.context, R.color.CSK))
-                    binding.playerAge.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerCurrentForm.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerMatches.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerStrikeRate.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerWickets.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerName.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerNationality.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerRole.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.playerRuns.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.teamCaptain.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.teamCity.setTextColor(getColor(binding.root.context, R.color.black))
-                    binding.teamName.setTextColor(getColor(binding.root.context, R.color.black))
-
-
-
                 }
                 "Mumbai Indians" -> {
                     binding.root.setBackgroundColor(getColor(binding.root.context, R.color.MI))
