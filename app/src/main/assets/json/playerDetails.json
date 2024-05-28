@@ -1,0 +1,141 @@
+{
+  "IPL": {
+    "teams": [
+      {
+        "name": "Mumbai Indians",
+        "city": "Mumbai",
+        "stadium": "Wankhede Stadium",
+        "coach": "Mahela Jayawardene",
+        "captain": "Rohit Sharma",
+        "players": [
+          {
+            "name": "Rohit Sharma",
+            "role": "Batsman",
+            "nationality": "Indian",
+            "age": 36,
+            "matches": 220,
+            "runs": 5800,
+            "wickets": 15,
+            "battingAverage": 31.5,
+            "strikeRate": 130.4,
+            "currentForm": "Good"
+          },
+          {
+            "name": "Jasprit Bumrah",
+            "role": "Bowler",
+            "nationality": "Indian",
+            "age": 30,
+            "matches": 92,
+            "runs": 57,
+            "wickets": 120,
+            "bowlingAverage": 22.8,
+            "economyRate": 7.4,
+            "currentForm": "Excellent"
+          },
+          {
+            "name": "Kieron Pollard",
+            "role": "All-rounder",
+            "nationality": "West Indian",
+            "age": 36,
+            "matches": 171,
+            "runs": 3190,
+            "wickets": 63,
+            "battingAverage": 30.7,
+            "strikeRate": 149.9,
+            "currentForm": "Average"
+          }
+        ]
+      },
+      {
+        "name": "Chennai Super Kings",
+        "city": "Chennai",
+        "stadium": "M. A. Chidambaram Stadium",
+        "coach": "Stephen Fleming",
+        "captain": "MS Dhoni",
+        "players": [
+          {
+            "name": "MS Dhoni",
+            "role": "Wicketkeeper-Batsman",
+            "nationality": "Indian",
+            "age": 42,
+            "matches": 204,
+            "runs": 4632,
+            "wickets": 0,
+            "battingAverage": 40.2,
+            "strikeRate": 137.9,
+            "currentForm": "Good"
+          },
+          {
+            "name": "Ravindra Jadeja",
+            "role": "All-rounder",
+            "nationality": "Indian",
+            "age": 35,
+            "matches": 200,
+            "runs": 2320,
+            "wickets": 120,
+            "battingAverage": 26.4,
+            "strikeRate": 126.2,
+            "currentForm": "Excellent"
+          },
+          {
+            "name": "Deepak Chahar",
+            "role": "Bowler",
+            "nationality": "Indian",
+            "age": 31,
+            "matches": 62,
+            "runs": 79,
+            "wickets": 59,
+            "bowlingAverage": 24.1,
+            "economyRate": 7.7,
+            "currentForm": "Good"
+          }
+        ]
+      },
+      {
+        "name": "Royal Challengers Bangalore",
+        "city": "Bangalore",
+        "stadium": "M. Chinnaswamy Stadium",
+        "coach": "Simon Katich",
+        "captain": "Virat Kohli",
+        "players": [
+          {
+            "name": "Virat Kohli",
+            "role": "Batsman",
+            "nationality": "Indian",
+            "age": 35,
+            "matches": 223,
+            "runs": 6700,
+            "wickets": 4,
+            "battingAverage": 38.2,
+            "strikeRate": 130.5,
+            "currentForm": "Excellent"
+          },
+          {
+            "name": "AB de Villiers",
+            "role": "Batsman",
+            "nationality": "South African",
+            "age": 40,
+            "matches": 169,
+            "runs": 5056,
+            "wickets": 0,
+            "battingAverage": 40.7,
+            "strikeRate": 151.7,
+            "currentForm": "Retired"
+          },
+          {
+            "name": "Yuzvendra Chahal",
+            "role": "Bowler",
+            "nationality": "Indian",
+            "age": 33,
+            "matches": 114,
+            "runs": 14,
+            "wickets": 139,
+            "bowlingAverage": 23.1,
+            "economyRate": 7.6,
+            "currentForm": "Good"
+          }
+        ]
+      }
+    ]
+  }
+}
